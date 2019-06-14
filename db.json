@@ -1,14 +1,14 @@
 [
   {
-    "id": 0,
-    "title": "movie1",
-    "year": "1972",
-    "country": "Spain"
+    "id": 1,
+    "title": "Post 1"
   },
   {
-    "id": 1,
-    "title": "movie2",
-    "year": "1975",
-    "country": "Spain"
+    "id": 2,
+    "title": "Post 2"
+  },
+  {
+    "id": 3,
+    "title": "Post 3"
   }
 ]
