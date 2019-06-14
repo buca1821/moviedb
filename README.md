@@ -1,2 +1,2 @@
 # moviedb
-Json db
+Json file with a list of movies
